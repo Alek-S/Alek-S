@@ -1,5 +1,6 @@
-### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20"> my name is Alek Shnayder
-#### Senior Web Developer &nbsp; | &nbsp;  [My Portfolio](https://alekshnayder.com/)
+### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20"> I'm Alek Shnayder, a Senior Web Developer living in Chicago
+#### [Portfolio](https://alekshnayder.com/) &nbsp; | &nbsp;  [Medium](https://medium.com/@alekshnayder) &nbsp; | &nbsp;  [LinkedIn](https://www.linkedin.com/in/alekshnayder/)
+
 
 <br>
 
