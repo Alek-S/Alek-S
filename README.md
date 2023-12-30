@@ -3,17 +3,9 @@
 
 <br>
 
-Senior Web Developer experienced in leading new digital products from the ground up, as well as providing comprehensive full-stack consulting on existing initiatives. 
+<p>Senior Web Developer experienced in leading new digital products from the ground up, as well as providing comprehensive full-stack consulting on existing initiatives.</p>
 
-Strongly passionate about elevating user interaction and engagement by seamlessly blending a refined user-driven UI with the most current best practices of the tech ecosystem. 
-
-Currently lean towards React, Typescript, GraphQL, and PostgreSQL.
-
-<br>
-
- 🖥️  [My Portfolio](https://alekshnayder.com/)
-
- <br>
+<p>Strongly passionate about elevating user interaction and engagement by seamlessly blending a refined user-driven UI with the most current best practices of the tech ecosystem.</p>
 
 #### Skills
 
