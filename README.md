@@ -1,9 +1,9 @@
-### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"> my name is Alek Shnayder
+### Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20"> my name is Alek Shnayder
 #### Senior Web Developer &nbsp; | &nbsp;  [My Portfolio](https://alekshnayder.com/)
 
 <br>
 
-<p>Senior Web Developer experienced in leading new digital products from the ground up, as well as providing comprehensive full-stack consulting on existing initiatives.</p>
+<p>Experienced in leading new digital products from the ground up, as well as providing comprehensive full-stack consulting on existing initiatives.</p>
 
 <p>Strongly passionate about elevating user interaction and engagement by seamlessly blending a refined user-driven UI with the most current best practices of the tech ecosystem.</p>
 
