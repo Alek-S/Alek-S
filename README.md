@@ -11,7 +11,7 @@ Currently lean towards React, Typescript, GraphQL, and PostgreSQL.
 
 <br>
 
- 🖥️  [My Portfolio](http://https://alekshnayder.com/)
+ 🖥️  [My Portfolio](https://alekshnayder.com/)
 
  <br>
 
