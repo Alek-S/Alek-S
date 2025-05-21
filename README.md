@@ -8,7 +8,7 @@
 
 <p>Strongly passionate about elevating user interaction and engagement by seamlessly blending a refined user-driven UI with the most current best practices of the tech ecosystem.</p>
 
-<p>Currently lean towards React, Typescript, GraphQL, and PostgreSQL.</p>
+<p>Currently lean towards React, Typescript, GraphQL, PostgreSQL and occasionally dip into Golang.</p>
 
 #### Skills
 
